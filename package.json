@@ -1,0 +1,5 @@
+{
+  "name": "esbuild-externalize-non-workspace-dependencies",
+  "version": "0.0.1",
+  "main": "src/index.js"
+}
