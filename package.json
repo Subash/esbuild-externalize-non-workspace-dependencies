@@ -1,6 +1,6 @@
 {
   "name": "esbuild-externalize-non-workspace-dependencies",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "type": "module",
   "exports": {
     ".": {
@@ -14,7 +14,7 @@
     "prepack": "npm run clean && npm run build"
   },
   "peerDependencies": {
-    "esbuild": "*"
+    "esbuild": "latest"
   },
   "devDependencies": {
     "rimraf": "^6.0.1",
